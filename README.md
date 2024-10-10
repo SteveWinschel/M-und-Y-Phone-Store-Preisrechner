@@ -1,3 +1,3 @@
 # M&amp;Y-Phone-Store-Preisrechner
 
-(Noch nicht geschrieben)
+(Wird irgenwann noch geschrieben)
